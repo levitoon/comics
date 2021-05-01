@@ -1,0 +1,14 @@
+{
+  "name": "levitoon/comics",
+  "description": "gestion de almacen comics",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "levitoon",
+      "email": "levitoon@gmail.com"
+    }
+  ],
+  "require": {
+  }
+}
